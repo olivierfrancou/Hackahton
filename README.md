@@ -5,7 +5,7 @@ Projet Hackathon BBOOST défi 1
 A partir du jeu de données mis à votre disposition, concevez une visualisation originale avec des indicateurs associés.
 
 ## Membres du groupe
-- VANDERMEERSH Thomas
+- VANDERMEERSCH Thomas
 - JOURNEAU Zacharie
 - FLAMENT Louis
 - THIBAUT Erwan
